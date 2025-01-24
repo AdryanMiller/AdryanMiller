@@ -9,6 +9,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="50" width="60" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif?cid=ecf05e479nk0uywfht3ep16aud099vq5httd8cm3udd5ry7f&ep=v1_gifs_search&rid=giphy.gif&ct=g">
   
 </div>
