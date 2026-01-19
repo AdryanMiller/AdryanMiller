@@ -1,4 +1,4 @@
-# 👌 Sobre:
+# Sobre:
 😊 Ola !! <br><br> Sou Adryan Miller, estou focado Back-end Developer em Python e arquitetura. Estudando Engenharia de Software para aprofundar em design de sistemas. Buscando sempre a evolução.
 
 
