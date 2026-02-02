@@ -1,5 +1,5 @@
 # Sobre:
-Desenvolvedor Back-end em formação, com foco em Python e APIs REST. Tenho prática na implementação de CRUD e autenticação, e estudo Engenharia de Software para evoluir na organização de código e estruturação de projetos backend.
+Desenvolvedor Back-end em formação, com foco em Python e APIs REST. Com prática em implementação de CRUD e autenticação, e estudo Engenharia de Software para evoluir na organização de código e estruturação de projetos backend.
 
 
 ## 🌐 Socials:
